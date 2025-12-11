@@ -48,12 +48,6 @@
 - **FuncaVida Management Web**: Front-End funcional conectado a API RESTful.
 - **API FuncaVida**: API RESTful para gestión de actividades y trámites.
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JlaraCast&show_icons=true&theme=radical" alt="JlaraCast's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JlaraCast&layout=compact&theme=radical" alt="Top Langs" />
-</div>
 
 ## 📫 Contacto
 
